@@ -78,9 +78,8 @@ The analysis covers both **single-stock** and **basket** versions of the product
 ---
 
 ## Files
-- `553.649_Final_Project_Accumulator_report.pdf` – Full written report.  
-- `553.649_Final_Project_Accumulator_code.ipynb` – Python implementation for analytical pricing, Monte Carlo simulation, Greeks, VaR/CVaR, and backtests.  
-- `553.649_Final_Project_Accumulator_code.pdf` – Exported version of the notebook.  
+- Full written report.  
+- Python implementation for analytical pricing, Monte Carlo simulation, Greeks, VaR/CVaR, and backtests.  
 
 ---
 
