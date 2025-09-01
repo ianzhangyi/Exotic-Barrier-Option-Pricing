@@ -1,7 +1,6 @@
 # Leveraged Accumulator Analysis
 
 ## Overview
-This project was completed as the **Final Project for 553.649 Advanced Equity Derivatives (JHU, Fall 2024)** under the supervision of Professor Roza Galeeva.  
 It investigates the **Leveraged Stock Accumulator**, a structured financial derivative that allows investors to accumulate shares at a discounted strike price, with leverage and early termination features.  
 
 The analysis covers both **single-stock** and **basket** versions of the product, combining **analytical pricing** and **Monte Carlo simulations** to study valuation, risk, and performance.
